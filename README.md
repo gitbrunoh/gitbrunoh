@@ -1,6 +1,6 @@
 ### Chega junto, vamos nós! 👋
 
-🐱‍🏍 Engenheiro migrando para Ciência de Dados.
+🐱‍🏍 Engenheiro migrando para TI.
 
 📬 brunohenriqueufpr@gmail.com
 
