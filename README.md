@@ -1,6 +1,6 @@
-### Chega junto, vamos nós! 👋
+### Chega junto, vamos aí! 👋
 
-🐱‍🏍 Engenheiro migrando para TI.
+🐱‍🏍 Engenheiro Civil apaixonado por TI.
 
 📬 brunohenriqueufpr@gmail.com
 
