@@ -1,6 +1,6 @@
 ### Chega junto 👋
 
-🐱‍🏍 Engenheiro Civil por formação apaixonado por TI.
+🐱‍🏍
 
 📬 brunohenriqueufpr@gmail.com
 
