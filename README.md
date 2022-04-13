@@ -1,7 +1,3 @@
-### Chega junto 👋
-
-🐱‍🏍
-
 📬 brunohenriqueufpr@gmail.com
 
 *Bruno Henrique Lopes, 18-02-22.*
