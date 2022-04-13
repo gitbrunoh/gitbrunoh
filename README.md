@@ -1,4 +1,4 @@
-### Chega junto, vamos aí! 👋
+### Chega junto 👋
 
 🐱‍🏍 Engenheiro Civil apaixonado por TI.
 
