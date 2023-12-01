@@ -6,7 +6,6 @@ I'm always open to collaboration, learning and tech chats. Let's explore the wor
 
 <div align="center">
   <a href="https://www.linkedin.com/in/brunohenriquelopes/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gitbrunoh&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitbrunoh&layout=compact&langs_count=7&theme=buefy"/>
 </div>
 
