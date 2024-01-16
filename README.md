@@ -2,7 +2,7 @@
 
 I believe that collaboration and knowledge sharing are essential for professional growth. If you have any questions about the 42 selection process and pedagogy model, feel free to contact me on [LinkedIn](https://www.linkedin.com/in/brunohenriquelopes)
 
-I'm always open to collaboration, learning and tech chats. Let's explore the world of technology and cybersecurity together!
+I'm always open to collaboration, learning and chats ;)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/brunohenriquelopes/">
