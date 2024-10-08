@@ -1,18 +1,35 @@
-📬 brunohenriqueufpr@gmail.com
+# 👋 hello, welcome
+In career transition from Civil Engineering to Software Engineering. To this end, I chose and am very grateful for the opportunity to study at 🎓 42 Lisbon - One of the most intensive and challenging software engineering training programmes today.
 
-I believe that collaboration and knowledge sharing are essential for professional growth. If you have any questions about the 42 selection process and pedagogy model, feel free to contact me on [LinkedIn](https://www.linkedin.com/in/brunohenriquelopes)
+## Main Projects
+**[MINISHELL](https://github.com/nyykooo/Minishell)**: Emblematic project. It's a customised shell with lots of features and details that mimic Bash. I developed this amazing project alongside my colleague Nyko!  
+**[FDF](https://github.com/gitbrunoh/fdf)**: So cool! This project is about representing a landscape as a 3D object in which all surfaces are outlined in lines.  
+**[PHILOSOPHERS](https://github.com/gitbrunoh/dining-philosophers-problem
+)**: The famous dining-philosophers-problem!  
+**[MINITALK](https://github.com/gitbrunoh/dining-philosophers-problem
+)**: Communication between procecess using only UNIX signals! 👾  
 
-I'm always open to collaboration, learning and chats ;)
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/brunohenriquelopes/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitbrunoh&layout=compact&langs_count=7&theme=buefy"/>
-</div>
+## 	Technologies and tools I've been using
+![C](https://img.shields.io/badge/-C-blue?logo=c)
+![Git](https://img.shields.io/badge/-Git-orange?logo=git)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash)
+![Shell](https://img.shields.io/badge/-Shell-FFD500?logo=gnu-bash)
+![Shell Script](https://img.shields.io/badge/-Shell%20Script-4EAA25?logo=gnu-bash)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code)
+![OutSystems](https://img.shields.io/badge/-OutSystems-red?logo=outsystems)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?logo=jupyter)
 
-##
+## Certs
+- OutSystems Certified
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gitbrunoh&show_icons=true&theme=dracula)
+
+## Contact
+📫 E-mail: [📬 brunohenriqueufpr@gmail.com](mailto:seu-email@example.com)
 
 <div>
 <a href="https://www.linkedin.com/in/brunohenriquelopes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
 </div>
-
