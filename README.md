@@ -1,4 +1,4 @@
-# 👋 hello, welcome
+# welcome
 In career transition from Civil Engineering to Software Engineering. To this end, I chose and am very grateful for the opportunity to study at 🎓 42 Lisbon - One of the most intensive and challenging software engineering training programmes today.
 
 ## Main Projects
