@@ -1,5 +1,4 @@
-# Welcome!
-In career transition from Civil Engineering to Software Engineering. To this end, I chose and am very grateful for the opportunity to study at 🎓 42 Lisbon - One of the most intensive and challenging software engineering training programmes today.
+![Header](bruno.png)
 
 ## Main Projects
 **[MINISHELL](https://github.com/nyykooo/Minishell)**: Emblematic project. It's a customised shell with lots of features and details that mimic Bash. I developed this amazing project alongside my colleague Nyko!  
@@ -20,12 +19,6 @@ In career transition from Civil Engineering to Software Engineering. To this end
 ![OutSystems](https://img.shields.io/badge/-OutSystems-red?logo=outsystems)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?logo=jupyter)
-
-## Certs
-- OutSystems Certified
-
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gitbrunoh&show_icons=true&theme=dracula)
 
 ## Contact
 📫 E-mail: [📬 brunohenriqueufpr@gmail.com](mailto:seu-email@example.com)
