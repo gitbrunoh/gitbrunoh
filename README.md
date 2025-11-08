@@ -1,6 +1,4 @@
-![Header](bruno.png)
-
-## NEW!!
+**NEW! [WEBSERVER](https://github.com/nyykooo/Webserv)**: Challenging! We wrote our own HTTP server. A huge thank you to my team colleagues. 
 **[CUB3D](https://github.com/gitbrunoh/cube3d)**: This project is inspired by the world-famous game Wolfenstein 3D, which was the first FPS ever made. It allowed us to explore ray casting. The aim is to create a dynamic view inside a labyrinth.
 
 ## Main Projects
